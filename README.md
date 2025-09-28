@@ -31,7 +31,6 @@ O dashboard foi desenvolvido para apoiar gestores e analistas financeiros na tom
 ## 🌐 Dashboard Online
 
 [![Acessar Dashboard Power BI](https://img.shields.io/badge/🔗%20Acessar%20Dashboard%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiYzA1NDBhN2UtZGRmMy00OWM3LTg0NGMtZTY1ZjhjN2M4YWMyIiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9&pageName=ReportSection)
-*Clique no botão acima para acessar o dashboard interativo online*
 
 ## 💡 Insights e Benefícios
 
@@ -67,7 +66,7 @@ O dashboard foi desenvolvido para apoiar gestores e analistas financeiros na tom
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Excel**: Fonte de dados estruturada (bd_estoque.xlsx)
+- **Excel**: Fonte de dados estruturada (db_categorias.xlsx, db_lancamentos.xlsx)
 - **Power Query**: ETL (Extract, Transform, Load) e transformação de dados
 - **Power BI Desktop**: Desenvolvimento do dashboard e modelagem de dados
 - **DAX (Data Analysis Expressions)**: Criação de medidas calculadas e KPIs
